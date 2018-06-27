@@ -1,0 +1,87 @@
+.rav{
+    height: 100px;
+    background-color: rgb(190, 184, 184);
+}
+.rav ul li a{
+    color: brown;
+    display: inline;
+    margin-left: 20px;
+    font-size: 30;
+}
+.rav ul li {
+    color: rgb(163, 113, 113);
+    display: inline;
+    margin-left: 20px;
+    
+    
+}
+.vob{
+    margin: auto;
+    width: 50%;
+
+}
+.tup form input{
+width: 100%;
+
+}  
+
+h1{
+    text-align: center;
+}
+
+table,th,td{
+    border: 5px solid blueviolet;
+}
+table{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.tup{
+    margin: auto;
+    width: 50%;
+   
+}
+#big{
+width: 100;
+height: 50%;
+}
+#sub{
+width:100%;
+}
+#messageInput{
+    height: 100px;
+}
+form{
+    color: black;
+    text-align: center;
+}
+
+body{
+    background-color: aqua;
+}
+
+footer{
+font-size: 1em;
+text-align: center;
+color: white;
+bottom:0;
+width: 100%;
+background-color: gray;
+float: left;
+position: fixed;
+margin: auto;
+}
+
+img{
+    margin-right: 20px;
+    
+    
+}
+.vob{
+    margin-top: 2.5%;
+}
+h1{
+    text-align: center
+}
